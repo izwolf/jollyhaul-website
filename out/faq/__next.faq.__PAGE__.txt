@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/22i43cg4l4-dq.js"],""]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+c:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+d:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+:HL["/_next/static/chunks/2yl0xnq9aria-.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"_7K4yOCc6SB2-Yvc4QcOl","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"simple-page","children":[["$","$L2",null,{"className":"simple-brand","href":"/","children":"JollyHaul"}],["$","p",null,{"className":"eyebrow","children":"Good to know"}],["$","h1",null,{"children":["Questions,",["$","br",null,{}],["$","em",null,{"children":"answered."}]]}],["$","div",null,{"className":"simple-list","children":[["$","section","When will my order arrive?",{"children":[["$","h2",null,{"children":"When will my order arrive?"}],["$","p",null,{"children":"Most JollyHaul finds arrive in 10–18 days. Tracking is emailed as soon as your order ships."}]]}],["$","section","Can I return an item?",{"children":[["$","h2",null,{"children":"Can I return an item?"}],["$","p",null,{"children":"Yes. Contact us within 30 days of delivery and we will help with your return. Damaged items are covered with a photo."}]]}],["$","section","What comes in the box?",{"children":[["$","h2",null,{"children":"What comes in the box?"}],["$","p",null,{"children":"Every product includes setup steps, power requirements, and care notes."}]]}]]}],["$","$L2",null,{"className":"button button-dark","href":"/","children":"Back to the shop"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/22i43cg4l4-dq.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"white","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"black","media":"(prefers-color-scheme: dark)"}],["$","meta","4",{"name":"color-scheme","content":"light dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"FAQ | JollyHaul"}],["$","meta","1",{"name":"description","content":"Answers about JollyHaul products, delivery, and returns."}],["$","meta","2",{"name":"generator","content":"v0.app"}],["$","link","3",{"rel":"icon","href":"/logo.png","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$La","5",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2yl0xnq9aria-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased","children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","main",null,{"className":"simple-page not-found-page","children":[["$","$L2",null,{"className":"simple-brand","href":"/","children":"JollyHaul"}],["$","p",null,{"className":"eyebrow","children":"Oops"}],["$","h1",null,{"children":["This page took",["$","br",null,{}],["$","em",null,{"children":"a wrong turn."}]]}],["$","p",null,{"className":"simple-intro","children":"The page you are looking for is not here, but there is plenty of holiday magic waiting in the shop."}],["$","$L2",null,{"className":"button button-dark","href":"/","children":"Return to the shop"}]]}],[]]}]}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+5:null
+7:300
+12:true
+7:C
+11:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"
