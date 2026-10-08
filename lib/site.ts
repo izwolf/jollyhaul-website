@@ -14,11 +14,14 @@ export const CONTACT_EMAIL = 'jollyhaulshop@gmail.com';
 export const TIKTOK_URL = 'https://www.tiktok.com/@jollyhaul';
 
 export const PAYMENT_LINKS: Record<string, string> = {
-  'Six-Scene Star Projector': 'https://buy.stripe.com/REPLACE_ME_projector',
-  '3D Hologram Holiday Fan': 'https://buy.stripe.com/REPLACE_ME_hologram',
-  'LED Snow Globe Lantern': 'https://buy.stripe.com/REPLACE_ME_snowglobe',
-  'Curtain Fairy Lights': 'https://buy.stripe.com/REPLACE_ME_lights',
+  'Magical Christmas Tree Projector': 'https://buy.stripe.com/REPLACE_ME_projector',
+  'Astronaut Star Projector': 'https://buy.stripe.com/REPLACE_ME_astronaut',
+  'Portable Espresso Maker': 'https://buy.stripe.com/REPLACE_ME_espresso',
+  'Waterfall Tree Lights': 'https://buy.stripe.com/REPLACE_ME_waterfall',
+  'Mushroom Humidifier': 'https://buy.stripe.com/REPLACE_ME_mushroom',
+  'Electric Milk Frother': 'https://buy.stripe.com/REPLACE_ME_frother',
   'Cozy Christmas Bundle': 'https://buy.stripe.com/REPLACE_ME_bundle',
+  'Coffee Bar Bundle': 'https://buy.stripe.com/REPLACE_ME_coffeebundle',
 };
 
 export const isLive = (url: string) => !url.includes('REPLACE_ME');
