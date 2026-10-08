@@ -30,6 +30,10 @@ export const PAYMENT_LINKS: Record<string, string> = {
   'USB Heated Gloves': 'https://buy.stripe.com/REPLACE_ME_gloves',
   'Portable Door Lock': 'https://buy.stripe.com/REPLACE_ME_doorlock',
   'Electric Scalp Massager': 'https://buy.stripe.com/REPLACE_ME_scalp',
+  'Electric Cleaning Brush': 'https://buy.stripe.com/REPLACE_ME_cleanbrush',
+  'LED Cloud Lamp': 'https://buy.stripe.com/REPLACE_ME_cloudlamp',
+  '3-in-1 Charging Station': 'https://buy.stripe.com/REPLACE_ME_chargestation',
+  'Luxury Travel Jewelry Box': 'https://buy.stripe.com/REPLACE_ME_jewelrybox',
   'Cozy Christmas Bundle': 'https://buy.stripe.com/REPLACE_ME_bundle',
   'Coffee Bar Bundle': 'https://buy.stripe.com/REPLACE_ME_coffeebundle',
 };
