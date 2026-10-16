@@ -24,7 +24,6 @@ export const PAYMENT_LINKS: Record<string, string> = {
   'Curtain Fairy Lights': 'https://buy.stripe.com/REPLACE_ME_lights',
   'Bluetooth Sleep Mask': 'https://buy.stripe.com/REPLACE_ME_sleepmask',
   'Foldable Pet Water Bottle': 'https://buy.stripe.com/REPLACE_ME_petbottle',
-  'Semiconductor Neck Fan': 'https://buy.stripe.com/REPLACE_ME_neckfan',
   'Sunrise Alarm Clock': 'https://buy.stripe.com/REPLACE_ME_sunrise',
   'Mini Desktop Vacuum': 'https://buy.stripe.com/REPLACE_ME_vacuum',
   'USB Heated Gloves': 'https://buy.stripe.com/REPLACE_ME_gloves',

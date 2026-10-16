@@ -92,14 +92,6 @@ export const allProducts: Product[] = [
     specs: ['Capacity: 500ml', 'Material: food-grade silicone', 'Weight: 150g'],
   },
   {
-    slug: 'neck-fan',
-    name: 'Semiconductor Neck Fan',
-    price: 34.99, oldPrice: 45, tag: 'Cooling tech', image: '/jollyhaul-gifts.png',
-    description: 'A cold metal plate on your neck, like AC you wear. 3 speeds, whisper quiet.',
-    features: ['Semiconductor cooling plate', '3 speed settings', 'Whisper quiet', 'USB rechargeable'],
-    specs: ['Battery: 8hr runtime', 'Charging: USB-C', 'Weight: 250g'],
-  },
-  {
     slug: 'sunrise-clock',
     name: 'Sunrise Alarm Clock',
     price: 39.99, oldPrice: 52, tag: 'Wellness gift', image: '/jollyhaul-gifts.png',
