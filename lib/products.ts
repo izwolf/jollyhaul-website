@@ -21,7 +21,7 @@ export const allProducts: Product[] = [
   {
     slug: 'astronaut-projector',
     name: 'Astronaut Star Projector',
-    price: 39.99, tag: 'TikTok viral', image: '/jollyhaul-gifts.png',
+    price: 39.99, tag: 'TikTok viral', image: '/products/astronaut-projector.jpg',
     description: 'A tiny astronaut paints galaxies across your ceiling. The gift kids lose their minds over.',
     features: ['360° rotating nebula', 'Remote control', 'Timer function', 'Adjustable brightness'],
     specs: ['Power: USB', 'Projection: up to 15ft', 'Indoor use'],
@@ -29,7 +29,7 @@ export const allProducts: Product[] = [
   {
     slug: 'espresso-maker',
     name: 'Portable Espresso Maker',
-    price: 69.99, tag: 'Coffee lover gift', image: '/jollyhaul-gifts.png',
+    price: 69.99, tag: 'Coffee lover gift', image: '/products/espresso-maker.jpg',
     description: 'Real espresso anywhere. Works with Nespresso and Dolce Gusto. No outlet needed.',
     features: ['Nespresso + Dolce Gusto compatible', 'Manual pressure pump', 'No electricity needed', 'Travel case included'],
     specs: ['Capacity: 80ml', 'Pressure: 20 bar', 'Weight: 350g'],
