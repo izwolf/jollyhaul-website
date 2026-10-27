@@ -37,7 +37,7 @@ export const allProducts: Product[] = [
   {
     slug: 'waterfall-lights',
     name: 'Waterfall Tree Lights',
-    price: 24.99, tag: 'Tree magic', image: '/jollyhaul-gifts.png',
+    price: 24.99, tag: 'Tree magic', image: '/products/waterfall-lights.jpg',
     description: '200 LEDs cascading like a glowing waterfall. The tree topper upgrade nobody expects.',
     features: ['200 LED lights', '8 lighting modes', 'USB powered with remote', 'Waterproof for outdoor use'],
     specs: ['Length: 1.5m', 'LED count: 200', 'Power: USB 5V'],
@@ -45,7 +45,7 @@ export const allProducts: Product[] = [
   {
     slug: 'mushroom-humidifier',
     name: 'Mushroom Humidifier',
-    price: 21.99, tag: 'Room decor', image: '/jollyhaul-gifts.png',
+    price: 21.99, tag: 'Room decor', image: '/products/mushroom-humidifier.jpg',
     description: 'A glowing mushroom that mists. The coziest desk upgrade on TikTok right now.',
     features: ['Cool mist humidifier', 'Warm night light glow', 'Whisper quiet', 'Auto shut-off'],
     specs: ['Capacity: 300ml', 'Power: USB', 'Runtime: 8 hours'],
@@ -61,7 +61,7 @@ export const allProducts: Product[] = [
   {
     slug: 'aurora-ball',
     name: 'Crystal Aurora Ball',
-    price: 24.99, tag: 'Cozy favorite', image: '/jollyhaul-gifts.png',
+    price: 24.99, tag: 'Cozy favorite', image: '/products/aurora-ball.jpg',
     description: 'Northern lights swirling in crystal. Remote included, zero setup stress.',
     features: ['Aurora projection', 'Remote control', 'Multiple color modes', 'Crystal ball design'],
     specs: ['Power: USB', 'Diameter: 12cm', 'Indoor use'],
@@ -69,7 +69,7 @@ export const allProducts: Product[] = [
   {
     slug: 'fairy-lights',
     name: 'Curtain Fairy Lights',
-    price: 19.99, tag: 'Gift-ready', image: '/jollyhaul-gifts.png',
+    price: 19.99, tag: 'Gift-ready', image: '/products/fairy-lights.jpg',
     description: '3 meters of warm twinkle. Bedrooms, patios, trees — instant magic everywhere.',
     features: ['3m x 3m curtain', '8 lighting modes', 'USB with remote', 'Indoor/outdoor'],
     specs: ['Size: 3m x 3m', 'LED count: 300', 'Power: USB 5V'],
